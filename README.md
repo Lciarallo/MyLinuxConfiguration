@@ -17,7 +17,7 @@ Clone o repositório:
   
   Depois, selecione o script com `cd` que você esteja em uso;
 
-Ex: `cd popos`
+Ex: `cd Pop_OS`
 
 Compile o script com o gcc:
 
