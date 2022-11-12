@@ -92,12 +92,15 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+#emacs
+alias emacs='emacs-nox'
+
 # GIT
 alias gst='git status'
 alias ga='git add .'
 alias gm='git commit -m'
 alias gp='git push -u origin main'
-alias emacs='emacs-nox'
+
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
