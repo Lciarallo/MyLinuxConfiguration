@@ -45,7 +45,7 @@ void instalar(int op){
             system("flatpak install flathub im.riot.Riot");
             system("flatpak install com.valvesoftware.Steam.CompatibilityTool.Proton-GE");
             system("cd && rm -rf .bashrc");
-            system("ln -s ~/MyLinuxConfiguration/Pop_OS/.bashrc ~/");
+            system("ln -s MyLinuxConfiguration/Pop_OS/.bashrc ~/");
         }
     }
 }
