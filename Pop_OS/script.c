@@ -47,7 +47,9 @@ void instalar(int op){
             system("cd && rm -rf .bashrc");
             system("ln -s MyLinuxConfiguration/Pop_OS/.bashrc ~/");
 	    system("sudo apt-get install emacs-nox");
+	case 2: {}
 	   
         }
     }
 }
+void desinstalar(int op){}
